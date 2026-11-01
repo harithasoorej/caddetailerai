@@ -1,0 +1,17 @@
+{
+  "OllamaUrl": "http://localhost:11434",
+  "ModelName": "qwen2.5:7b",
+  "TimeoutSeconds": 120,
+  "LargeDrawingEntityThreshold": 500,
+  "ColumnScale": 1.0,
+  "ColumnTextHeight": 2.5,
+  "ColumnPlanOriginX": 0.0,
+  "ColumnPlanOriginY": 0.0,
+  "ColumnGridSpacing": 6000.0,
+  "ColumnScheduleOriginX": 20000.0,
+  "ColumnScheduleOriginY": 0.0,
+  "ColumnDetailOriginX": 20000.0,
+  "ColumnDetailOriginY": -10000.0,
+  "TypicalStirrupSpacing": 150.0,
+  "TypicalLapLength": 600.0
+}

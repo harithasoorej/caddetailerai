@@ -1,0 +1,15 @@
+{
+  "MinimumTextHeight": 2.5,
+  "AllowedLayerNames": [
+    "0",
+    "DEFPOINTS",
+    "AI_DRAFT",
+    "S-COLS",
+    "S-SCHEDULE",
+    "S-DETAIL"
+  ],
+  "DimensionSearchDistance": 5.0,
+  "DuplicateLineTolerance": 0.01,
+  "MinimumColumnBars": 4,
+  "MinimumColumnCover": 25.0
+}
